@@ -1,0 +1,9 @@
+[
+    {
+        "id" : 1,
+        "name" : "Nur Amin",
+        "age" : 30,
+        "skill" : "MERN Stack devs",
+        "location" : "dhaka"
+    }
+]

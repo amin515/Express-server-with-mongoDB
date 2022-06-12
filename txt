@@ -1,0 +1,8 @@
+install from npm
+
+1-bcryptjs
+2-colors
+3-dotenv
+4-express
+5-mongoose
+6-nodemon
